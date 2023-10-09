@@ -1,8 +1,5 @@
 package com.dicoding.myexoplayer
 
-import android.app.Service
-import android.content.Intent
-import android.os.IBinder
 import androidx.media3.common.MediaItem
 import androidx.media3.common.MediaMetadata
 import androidx.media3.exoplayer.ExoPlayer

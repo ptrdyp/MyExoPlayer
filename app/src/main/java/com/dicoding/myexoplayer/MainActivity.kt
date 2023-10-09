@@ -1,13 +1,11 @@
 package com.dicoding.myexoplayer
 
 import android.content.ComponentName
-import androidx.media3.common.MediaItem
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.view.WindowCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.core.view.WindowInsetsControllerCompat
-import androidx.media3.exoplayer.ExoPlayer
 import androidx.media3.session.MediaController
 import androidx.media3.session.SessionToken
 import com.dicoding.myexoplayer.databinding.ActivityMainBinding
